@@ -1,6 +1,7 @@
 ### Hi there👋 i am Artium
 
 
+
 - 👨‍💻 i'm software practical engineer 
 - 💬 Ask me about C# , react , Python , css , Sql , JavaScript
 
