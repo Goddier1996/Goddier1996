@@ -1,7 +1,8 @@
 ### Hi there👋 i am Artium
 
 
-🔭 i'm software practical engineer 👨‍💻
+- 🔭 i'm software practical engineer 👨‍💻
+
 
 # Connect with me ✉️:
 
