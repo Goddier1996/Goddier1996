@@ -16,9 +16,8 @@ Linkedin : https://www.linkedin.com/in/artium-kot-a571aa20b
 
 # My Skils :
 
-![image](https://user-images.githubusercontent.com/59862302/175319775-6d2d0c02-b5ef-4405-a019-675b945aa369.png)
+![image](https://user-images.githubusercontent.com/59862302/175319775-6d2d0c02-b5ef-4405-a019-675b945aa369.png) ![image](https://user-images.githubusercontent.com/59862302/175319828-9501df09-dfb8-4684-b614-40bf63f1005c.png) ![image](https://user-images.githubusercontent.com/59862302/175319986-9126626d-caf9-4817-b321-43c01e3afafb.png)
 
-![image](https://user-images.githubusercontent.com/59862302/175319828-9501df09-dfb8-4684-b614-40bf63f1005c.png)
 
 
 
