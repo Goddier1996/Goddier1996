@@ -18,7 +18,8 @@ Linkedin : https://www.linkedin.com/in/artium-kot-a571aa20b
 
 ![image](https://user-images.githubusercontent.com/59862302/175319775-6d2d0c02-b5ef-4405-a019-675b945aa369.png) ![image](https://user-images.githubusercontent.com/59862302/175319828-9501df09-dfb8-4684-b614-40bf63f1005c.png) ![image](https://user-images.githubusercontent.com/59862302/175319986-9126626d-caf9-4817-b321-43c01e3afafb.png) ![image](https://user-images.githubusercontent.com/59862302/175320065-e54d819f-52de-49ba-a8fd-1ef1cde89ecb.png)
  ![image](https://user-images.githubusercontent.com/59862302/175320146-5cf5fc6d-029e-45e2-9a5a-b512c64b479a.png) ![image](https://user-images.githubusercontent.com/59862302/175320188-d817662e-bbde-47bc-823b-c897a119dbff.png) ![image](https://user-images.githubusercontent.com/59862302/175320270-6aacdabe-9932-4c45-9b55-3bf0ecd15610.png) ![image](https://user-images.githubusercontent.com/59862302/175320317-a45d81f3-5d2d-49d5-9c74-7d2f4de60bc0.png)  ![image](https://user-images.githubusercontent.com/59862302/175320357-a849d19a-e975-4334-86e3-3d873b5ca489.png) 
- 
+ ![c-plus-plus-programming-language](https://user-images.githubusercontent.com/59862302/175323179-aded2b9c-ac72-43b7-89a8-bea7be2cebf9.svg)
+
 ![adobe-xd (1)](https://user-images.githubusercontent.com/59862302/175323036-2d12ac59-378c-4c3f-bbdf-5680d82f1614.svg)
 
 
