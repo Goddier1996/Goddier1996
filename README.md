@@ -15,6 +15,8 @@ FaceBook : https://www.facebook.com/profile.php?id=100007268836178
 Linkedin : https://www.linkedin.com/in/artium-kot-a571aa20b
 
 # My Skils :
-![width:40,height:20 android-original-wordmark](https://user-images.githubusercontent.com/59862302/175318400-2d68745f-4d7f-47d2-922d-926726ebf4de.svg)
+![android-original-wordmark](https://user-images.githubusercontent.com/59862302/175319511-d1723129-32f5-4e21-95d9-309cc04008b2.svg )
+![image](https://user-images.githubusercontent.com/59862302/175319686-64b95d25-bfe9-4011-8eff-9fcee325e839.png)
+
 
 
