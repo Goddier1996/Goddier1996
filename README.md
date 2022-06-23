@@ -1,4 +1,4 @@
-# Hi there👋 i am Artium
+# Hi there👋 I am Artium
 
 
 
