@@ -1,44 +1,27 @@
-# Hi there👋 I am Artium
+[![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Artium</h1>
+<h3 align="center">i'm software practical engineer from israel</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=goddier1996&label=Profile%20views&color=0e75b6&style=flat" alt="goddier1996" /> </p>
 
+- 🌱 I’m currently learning **React Native and more things**
 
-- 👨‍💻 i'm software practical engineer 
-- 💬 Ask me about C# , react , Python , css , Sql , JavaScript
+- 💬 Ask me about **react , python , c# , sql**
 
+- 📫 How to reach me **artium20@gmail.com**
 
-# Connect with me ✉️:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/artium-kot-a571aa20b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/artium-kot-a571aa20b" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100007268836178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007268836178" height="30" width="40" /></a>
+</p>
 
-Email : artium20@gmail.com
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-FaceBook : https://www.facebook.com/profile.php?id=100007268836178
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goddier1996&show_icons=true&locale=en&layout=compact" alt="goddier1996" /></p>
 
-Linkedin : https://www.linkedin.com/in/artium-kot-a571aa20b
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goddier1996&show_icons=true&locale=en" alt="goddier1996" /></p>
 
-
-# My Skils and Tools 🔭 :
-
-### Web/App 
-![w3_css-icon](https://user-images.githubusercontent.com/59862302/175325669-4a950809-5e21-4ad8-9212-d92175f581d7.svg) ![w3_html5-icon](https://user-images.githubusercontent.com/59862302/175325246-b85bf618-9f18-4afb-9678-75e2340439fc.svg) ![javascript-icon](https://user-images.githubusercontent.com/59862302/175332160-39144832-fc32-4821-8d2e-bce84d4d9dc7.svg) ![reactjs-icon](https://user-images.githubusercontent.com/59862302/175326517-19a5ec8a-7306-40f5-a402-6f0e1c2907ab.svg) ![getbootstrap-icon](https://user-images.githubusercontent.com/59862302/175329288-f6f92ac2-77e0-468d-a5e0-90bb939779a7.svg) ![nodejs-horizontal](https://user-images.githubusercontent.com/59862302/175325896-c02b2e15-b775-4a22-80fb-a8bb0682f79f.svg) ![expressjs-icon](https://user-images.githubusercontent.com/59862302/175383284-45d3bc47-c3b8-4162-b91f-a78194eb6e65.svg) ![android-icon](https://user-images.githubusercontent.com/59862302/175327848-0876ddf7-d183-456d-8767-db0f9dc5132b.svg)
-
-### Data base 
-![mysql-horizontal](https://user-images.githubusercontent.com/59862302/175383234-27779848-954f-4a8c-a9b8-c7d550a52e5e.svg)
-
-### Algorithm/App 
-![python-icon](https://user-images.githubusercontent.com/59862302/175326643-043dfa5f-2687-4f30-9614-eb825f46e236.svg) ![csharp_original_logo_icon_146578 (1)](https://user-images.githubusercontent.com/59862302/175331404-1a611f90-8418-463a-9b4d-fe4f5c356d5e.png) ![arduino-icon](https://user-images.githubusercontent.com/59862302/175329592-485902c6-c095-4c57-89df-b6805df882e3.svg)
-
-### Tools 
-<img alt="adobe_xd_macos_bigsur_icon_190424" src="https://user-images.githubusercontent.com/59862302/175332510-13601009-0cbd-48d7-8253-4e057d2848b8.png"> <img alt="adobe_photoshop_macos_bigsur_icon_190436" src="https://user-images.githubusercontent.com/59862302/175332816-219f8578-dfd6-4279-9559-25188da265e3.png"> ![visualstudio_code-icon](https://user-images.githubusercontent.com/59862302/175385682-d6aef56b-bf1d-4979-9a71-d1936b459775.svg) ![visual_studio_18908](https://user-images.githubusercontent.com/59862302/175386118-38d4aa14-333b-441e-8c48-0a6822a91747.png) ![android_studio_alt_macos_bigsur_icon_190394](https://user-images.githubusercontent.com/59862302/175386275-69b097da-340d-4ae4-8be7-fa25993f56e9.png) ![pycharm_93936](https://user-images.githubusercontent.com/59862302/175386446-525af84b-8536-4710-a8f3-cadc1504ca15.png)
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goddier1996&" alt="goddier1996" /></p>
