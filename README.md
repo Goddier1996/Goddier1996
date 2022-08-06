@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **artium20@gmail.com**
 
-- 📄 PortFolio **https://portfolio-artium-kot.netlify.app
+- 📄 PortFolio **https://portfolio-artium-kot.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
