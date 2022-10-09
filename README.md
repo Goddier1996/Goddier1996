@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Artium</h1>
+<h1 align="center">Hi 👋, I'm Artem</h1>
 <h3 align="center">i'm software practical engineer from israel</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
