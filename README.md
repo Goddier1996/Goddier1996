@@ -24,6 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goddier1996&show_icons=true&locale=en&layout=compact" alt="goddier1996" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goddier1996&show_icons=true&locale=en" alt="goddier1996" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goddier1996&" alt="goddier1996" /></p>
