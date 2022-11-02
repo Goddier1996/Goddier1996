@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goddier1996&label=Profile%20views&color=0e75b6&style=flat" alt="goddier1996" /> </p>
 
-- 🌱 I’m currently learning **React Native and more things**
-
-- 💬 Ask me about **React , python , c# , MySql**
-
 - 📫 How to reach me **artium20@gmail.com**
 
 - 📄 Portfolio **https://artem-kot-portfolio.netlify.app**
