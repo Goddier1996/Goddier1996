@@ -42,7 +42,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddier1996&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Goddier1996&icon=5&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
