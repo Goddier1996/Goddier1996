@@ -32,11 +32,14 @@
 
 <h3>Hi I'm Artem , i'm software practical engineer from israel</h3>
 
-📫 How to reach me  : artium20@gmail.com<br>📄 Portfolio  : https://artem-kot-portfolio.netlify.app
+<!-- 📫 How to reach me  : artium20@gmail.com<br>📄 Portfolio  : https://artem-kot-portfolio.netlify.app -->
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Artem-Kot/100007268836178/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-kot-a571aa20b) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Artem-Kot/100007268836178/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-kot-a571aa20b)
+[![Email](https://img.shields.io/badge/%F0%9F%93%AB-Email-blue)](artium20@gmail.com)
+[![portfolio](https://img.shields.io/badge/%F0%9F%93%84-Portfolio-orange)](https://artem-kot-portfolio.netlify.app) 
 
 
 
