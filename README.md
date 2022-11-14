@@ -4,8 +4,8 @@
 <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 <!-- <img align="right" alt="Coding" width="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goddier1996&label=Profile%20views&color=0e75b6&style=flat" alt="goddier1996" /> </p>
-
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=goddier1996&label=Profile%20views&color=0e75b6&style=flat" alt="goddier1996" /> </p>
+ -->
  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=goddier1996&label=Profile%20views&color=0e75b6&style=flat" alt="goddier1996" /> </p>
 
