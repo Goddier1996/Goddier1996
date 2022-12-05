@@ -8,7 +8,7 @@
  -->
  
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=goddier1996&label=Profile%20views&color=0e75b6&style=flat" alt="goddier1996" /> </p>
- 
+  
 - 📫 How to reach me **artium20@gmail.com**
 
 - 📄 Portfolio **https://artem-kot-portfolio.netlify.app**
