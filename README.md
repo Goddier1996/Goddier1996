@@ -26,9 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goddier1996&show_icons=true&locale=en&layout=compact" alt="goddier1996" /></p> -->
 
 
-
 # 💫 About Me:
-
 
 <p>Hi I'm Artem , i'm software practical engineer from israel</p>
 
@@ -89,19 +87,3 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Expo](https://img.shields.io/badge/railway-server-white)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Goddier1996&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Goddier1996&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddier1996&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
---- -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
