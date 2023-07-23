@@ -30,7 +30,7 @@
 # 💫 About Me:
 
 
-<p>Hi I'm Artem , i'm software practical engineer from israel</p>
+<p>Hi I'm Artem , i'm software practical engineer</p>
 
 📫 How to reach me  : artium20@gmail.com
 
