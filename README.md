@@ -13,7 +13,7 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Artem-Kot/100007268836178/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/artem-kot-a571aa20b)
-[![portfolio](https://img.shields.io/badge/%F0%9F%93%84-Portfolio-orange)](https://artem-kot-portfolio.netlify.app) 
+[![portfolio](https://img.shields.io/badge/%F0%9F%93%84-Portfolio-orange)]([https://artem-kot-portfolio.netlify.app](https://portfolio-artem-kot.vercel.app/)) 
 
 
 
