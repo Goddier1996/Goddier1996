@@ -7,9 +7,11 @@
 
 <p>Hi my name is Artem 👨🏻‍💻</p>
 
-<p>Software Developer
+<p>Software Engineering | Frontend Developer
   <br/>
-With focus on Frontend ⫸ Expert in React & Server technologies (Node.Js, Database) ✬ Creating a best functional & user experience</p>
+Expert In React Frameworks & Server Technologies Built A Portfolio Of 10+ Personal Projects
+Creating a best functional & user experience at project's.
+</p>
 
 📫 How to reach me  : artium20@gmail.com
 
