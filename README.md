@@ -8,8 +8,9 @@
 <p>Hi my name is Artem 👨🏻‍💻</p>
 
 <p>Software Engineering | Frontend Developer
-  <br/>
-Expert In React Frameworks & Server Technologies Built A Portfolio Of 10+ Personal Projects
+<br/>
+Expert In React Frameworks & Server Technologies.
+  <br/> Built A Portfolio Of 10+ Personal Projects
 Creating a best functional & user experience at project's.
 </p>
 
