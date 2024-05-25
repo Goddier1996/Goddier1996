@@ -7,11 +7,17 @@
 
 <p>Hi my name is Artem 👨🏻‍💻</p>
 
-<p>Software Engineering | Frontend Developer
-<br/>
-Expert In React Frameworks & Server Technologies.
-  <br/> Built A Portfolio Of 10+ Personal Projects
-Creating a best functional & user experience at project's.
+<p>
+Software developer with 1.7M code lines in GitHub,
+  <br/>
+additionally a strong inclination towards web technology. 
+  <br/>
+Creating complex personal projects from scratch that can show best functional and user experience, including 
+code testing and debugging to find a problem and fix it.     
+  <br/>
+Has a solid background in React frameworks uses languages JavaScript, TypeScript and knowledgeable working 
+with server technologies Node.js, MongoDB and MMSQL.
+  
 </p>
 
 📫 How to reach me  : artium20@gmail.com
